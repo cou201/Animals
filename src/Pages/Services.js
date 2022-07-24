@@ -7,7 +7,7 @@ const Services = () => {
   return (
    <>
    <Headers/>
-   <Hero Image={animal3} title="Panda" desc="Pandoris" />
+   <Hero Image={animal3} title="Panda" desc="love bamboo" />
    </>
   )
 }

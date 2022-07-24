@@ -7,7 +7,7 @@ const About = () => {
   return (
     <>
     <Headers/>
-    <Hero Image={animal} title= "Tiger" desc="nose ola"/>
+    <Hero Image={animal} title= "Tiger" desc="it is dangerous"/>
     </>
   )
 }

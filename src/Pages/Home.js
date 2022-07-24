@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <motion.div animated={{scale:0.8}}>
     <Headers/>
-    <Hero Image={animal} title= "poisonous frog" desc="ana banana"/>
+    <Hero Image={animal} title= "poisonous frog" desc="it is dangerous"/>
    </motion.div>
   )
 }
